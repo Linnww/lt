@@ -93,7 +93,7 @@ ul {
 
 .lt_main {
   height: 1000px;
-  background-color: pink;
+  background-color: #fff;
   padding-left: 180px;
   padding-top: 50px;
   transition: all 1s;
@@ -129,4 +129,10 @@ ul {
 .echarts_2 {
   width: 48%;
   height: 400px;
+}
+
+.table.table-bordered th,
+.table.table-bordered td {
+  text-align: center;
+  vertical-align: middle;
 }
